@@ -1,4 +1,4 @@
-![solar-blackie](solar_bk.png)
+![solar-blackie](solar_bk.jpg)
 
 # Solar Blackie
 
